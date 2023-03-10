@@ -1,0 +1,15 @@
+.footer {
+    background-color: black;
+    min-height: 10vh;
+    padding-block: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+/* .footer__div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 1rem;
+} */

@@ -1,0 +1,4 @@
+1ª Al hacer click a register o a sign in me envie a la pagina home:
+2º Poner mas juegos.
+3ª Paginación de juegos.
+4º Arreglar el body, mismo tamaño en account 
