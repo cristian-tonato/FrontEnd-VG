@@ -69,7 +69,7 @@ export function Login() {
                             to="/register"
                             className={style.form__loginButton}
                         >
-                            register
+                            Register
                         </Link>
                     </p>
                 </div>

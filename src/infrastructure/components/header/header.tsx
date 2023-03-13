@@ -7,16 +7,16 @@ export function Header() {
     return (
         <>
             <header className={styles.header}>
-                <div className={styles.header}>
-                    <Link to={''}>
-                        <img
-                            className={styles.header}
-                            src="./assets/logo.png"
-                            alt=""
-                        />
-                    </Link>
-                </div>
+                <Link to={''}>
+                    <img
+                        className={styles.header_img}
+                        src="./assets/logo.png"
+                        alt=""
+                    />
+                </Link>
+                {/* <div className={styles.header__menu}> */}
                 <Menu></Menu>
+                {/* </div> */}
             </header>
         </>
     );

@@ -25,7 +25,7 @@ export function AppRoutes() {
             ></Route>
             <Route path="/login" element={<Login></Login>}></Route>
             <Route
-                path="/favorites"
+                path="/myGames"
                 element={
                     <PrivateRouter>
                         <FavoritesGames />

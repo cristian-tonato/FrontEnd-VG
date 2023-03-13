@@ -3,7 +3,7 @@ import styles from './menu.module.css';
 export function Menu() {
     const menuOption = [
         { id: '1', path: '/home', label: 'Home' },
-        { id: '2', path: '/favorites', label: 'Favorites' },
+        { id: '2', path: '/mygames', label: 'My Games' },
         { id: '3', path: '/account', label: 'Account' },
         // { id: '4', path: '/favorites', label: 'favorites' },
         // { id: '5', path: '/details', label: 'details' },
